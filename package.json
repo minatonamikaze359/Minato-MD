@@ -12,7 +12,7 @@
   "keywords": [
     "whatsapp-bot"
   ],
-  "author": "SILVER-MD",
+  "author": "Minato-MD",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
